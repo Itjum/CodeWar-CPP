@@ -1,2 +1,2 @@
 # CodeWar-CPP
-piscine cpp - 2021/2022
+piscine cpp - 2022
